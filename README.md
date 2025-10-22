@@ -3,3 +3,5 @@
 DerpShallot AI 
 
 Updating statistics
+
+More statistical tracking
