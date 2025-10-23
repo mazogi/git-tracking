@@ -1,7 +1,7 @@
 # git-tracking
 
-DerpShallot AI 
+* DerpShallot AI 
 
-Updating statistics
+* Updating statistics
 
-More statistical tracking
+* More statistical tracking
