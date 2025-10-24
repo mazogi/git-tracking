@@ -5,3 +5,5 @@
 * Updating statistics
 
 * More statistical tracking
+  
+* Follow Udemy MCP course
