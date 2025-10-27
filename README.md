@@ -1,3 +1,9 @@
 # git-tracking
 
-DerpShallot AI 
+* DerpShallot AI 
+
+* Updating statistics
+
+* More statistical tracking
+  
+* Follow Udemy MCP course
