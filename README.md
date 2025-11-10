@@ -7,3 +7,4 @@
 * More statistical tracking
   
 * Follow Udemy MCP course
+* E Pluribus
