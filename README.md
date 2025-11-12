@@ -8,3 +8,4 @@
   
 * Follow Udemy MCP course
 * E Pluribus
+* renaming branches 
